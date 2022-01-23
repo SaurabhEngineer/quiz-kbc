@@ -1,0 +1,58 @@
+// creating an array and passing the number, questions, options, and answers
+let questions = [
+    {
+    numb : 1,
+    question : "What is the capital of India ?",
+    answer: "Delhi",
+    options : [
+      "Delhi",
+      "Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ]
+  },
+    {
+    'numb': 2,
+    question: "What does CSS stand for?",
+    answer: "Cascading Style Sheet",
+    options: [
+      "Common Style Sheet",
+      "Colorful Style Sheet",
+      "Computer Style Sheet",
+      "Cascading Style Sheet"
+    ]
+  },
+    {
+    numb: 3,
+    question: "What is the ful form of JS ?",
+    answer: "JavaScript",
+    options: [
+      "JavaSource",
+      "JavaScreen",
+      "JavaScript",
+      "None"
+    ]
+  },
+    {
+    numb: 4,
+    question: "What does SQL stand for?",
+    answer: "Structured Query Language",
+    options: [
+      "Stylish Question Language",
+      "Stylesheet Query Language",
+      "Statement Question Language",
+      "Structured Query Language"
+    ]
+  },
+    {
+    numb : 5,
+    question: "Advacned framework for Front-End ?",
+    answer: "React",
+    options: [
+      "Mongo",
+      "PHP",
+      "React",
+      "All of the above"
+    ]
+  },
+];
